@@ -12,6 +12,8 @@ Inspired by this great repo : https://github.com/moklick/frontend-stuff
 ## To Try
 ### JS
 - **Webfont Loader** https://github.com/typekit/webfontloader
+- **jQuery match Height** https://github.com/liabru/jquery-match-height
+- **Featherlight - lightbox plugin** https://github.com/noelboss/featherlight/
 - ...
 
 ### CSS
