@@ -15,6 +15,7 @@ Inspired by this great repo : https://github.com/moklick/frontend-stuff
 - **jQuery match Height** https://github.com/liabru/jquery-match-height
 - **Featherlight - lightbox plugin** https://github.com/noelboss/featherlight/
 - **Chocolat.js -  jQuery lightbox plugin** https://github.com/nicolas-t/Chocolat/
+- **Jets.js - list search** http://nexts.github.io/Jets.js/
 - ...
 
 ### CSS
