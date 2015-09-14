@@ -14,6 +14,7 @@ Inspired by this great repo : https://github.com/moklick/frontend-stuff
 - **Webfont Loader** https://github.com/typekit/webfontloader
 - **jQuery match Height** https://github.com/liabru/jquery-match-height
 - **Featherlight - lightbox plugin** https://github.com/noelboss/featherlight/
+- **Chocolat.js -  jQuery lightbox plugin** https://github.com/nicolas-t/Chocolat/
 - ...
 
 ### CSS
