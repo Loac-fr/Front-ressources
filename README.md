@@ -9,6 +9,7 @@ Inspired by this great repo : https://github.com/moklick/frontend-stuff
 #### Maps
 - **Google maps builder** https://mapbuildr.com/buildr
 - **Snazzy Maps** https://snazzymaps.com/
+- **Open street Maps layers** https://leaflet-extras.github.io/leaflet-providers/preview/
 - ...
 
 ***
