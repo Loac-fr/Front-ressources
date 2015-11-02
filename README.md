@@ -22,6 +22,7 @@ Inspired by this great repo : https://github.com/moklick/frontend-stuff
 - **Chocolat.js -  jQuery lightbox plugin** https://github.com/nicolas-t/Chocolat/
 - **Jets.js - list search** http://nexts.github.io/Jets.js/
 - **BLazy - lazy loading** https://github.com/dinbror/blazy
+- **atvImg - parallax image effect** https://github.com/drewwilson/atvImg 
 - ...
 
 ### CSS
