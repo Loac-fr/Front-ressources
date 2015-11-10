@@ -23,11 +23,13 @@ Inspired by this great repo : https://github.com/moklick/frontend-stuff
 - **Jets.js - list search** http://nexts.github.io/Jets.js/
 - **BLazy - lazy loading** https://github.com/dinbror/blazy
 - **atvImg - parallax image effect** https://github.com/drewwilson/atvImg 
+- **Salvattore - css-driven masonry layout** https://github.com/rnmp/salvattore  
 - ...
 
 ### CSS
 - **Rucksack CSS** https://github.com/simplaio/rucksack
 - **MUICss** https://www.muicss.com/
+- **Corpus CSS** https://github.com/jamiewilson/corpus
 - **...**
 
 ### Other
